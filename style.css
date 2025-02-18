@@ -1,11 +1,12 @@
 :root {
-    --color-primary: #4B69FD;
-    --color-secondary: #FFF9EB;
-    --color-tertiary: #C4C4C4;
-    --color-button: #fe652b;
-    --color-button-hover: #e55720;
-    --color-text: #444444;
+    --color-primary: #6A89CC;
+    --color-secondary: #F1E6D3;
+    --color-tertiary: #B1B9C4;
+    --color-button: #A4D4AE;
+    --color-button-hover: #6FAF74;
+    --color-text: #2C3E50;
     --color-white: #FFFFFF;
+    --color-title: #974eb6;
 }
 
 /* Estilos gerais */
@@ -65,7 +66,7 @@ body {
     font-family: "Inter", serif;
     font-size: 36px;
     font-weight: 700;
-    color: var(--color-primary);
+    color: var(--color-title);
     margin: 10px 0;
     text-align: center;
 }
@@ -136,7 +137,7 @@ ul {
 
 .result-list {
     margin-top: 15px;
-    color: #05DF05;
+    color: #558f5a;
     font-size: 22px;
     font-weight: bold;
     text-align: center;
